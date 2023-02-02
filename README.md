@@ -2,6 +2,16 @@
 
 # Smoky Profile [![smoky](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
-> Something about me
+> “It is only when they go wrong that machines remind you how powerful they are”
+> 
+> **Clive James, Broadcaster and Journalist**
+
+> :school: Bachelor's degree, Hanoi University of Science, Hanoi (2014 — 2018)
+> 
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:books: Learn about: Machine Learning, Image Processing, Java, C/C++, Web
+
+> :school: Higher National Diploma, FPT Coking, Hanoi (2019 — 2022)
+> 
+> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:books: Full scholarship for full stack IoT training program
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
